@@ -1,0 +1,27 @@
+_repo: Camps-Quarters-and-Casual-Places_9460
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Archibald
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '2739'
+    url: http://www.gutenberg.org/2009/agents/2739
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Forbes
+description: Collection of fictional pieces and essays by Forbes regarding military
+  life and various campaigns?
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military history, Modern'
+- !lcc 'D'
+- !lcsh 'Military camps'
+- GITenberg
+title: Camps, Quarters, and Casual Places
+url: http://www.gutenberg.org/ebooks/9460
